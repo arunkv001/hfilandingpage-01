@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
@@ -21,14 +22,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 4rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.4rem;
 }
 .display-2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 2.2rem;
 }
 .display-2 > .mbr-iconfont {
@@ -971,7 +972,7 @@ body {
 .cid-rF9zfFeVu8 .form-control,
 .cid-rF9zfFeVu8 .field-input {
   padding: 0.5rem;
-  background-color: #f4f8fa;
+  background-color: #f7f7f7;
   border-color: #cccccc;
   color: #000000;
   transition: 0.4s;
